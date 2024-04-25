@@ -5,7 +5,6 @@
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
 * [Tecnologias Utilidades](#tecnologias-utilizadas)
-* [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
  
 # Tela Login
