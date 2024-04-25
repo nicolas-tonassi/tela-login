@@ -8,7 +8,7 @@
 * [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
  
-# Calendário
+# Tela Login
  
 ## Descrição 📖
 - O projeto consiste em uma tela de login desenvolvida em JavaScript, HTML5 e CSS3 para a empresa Alpha. O objetivo é criar uma aplicação que permita o acesso por meio de tela de login, com campos para usuário, senha, cadastro e recuperação de senha. A aplicação também inclui a validação dos campos de acesso, com mensagens de erro para campos obrigatórios. Além disso, há uma página para recuperação de senha, que permite ao usuário informar seu e-mail para recuperação (mesmo que a etapa de recuperação em si não precise ser implementada).
