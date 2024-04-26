@@ -12,16 +12,17 @@
         <form id="loginForm">
             <div>
                 <label for="inputEmail4" class="form-label">Usuário</label><br>
-                <input type="email" class="form-control" id="inputEmail4">
+                <input type="email" class="form-control" id="user">
             </div><br>
             <div>
                 <label for="inputPassword4" class="form-label">Senha</label><br>
-                <input type="password" id="inputPassword4"><br><br>
-            </div>
-            <div>
-                <button id="btn-login">Entrar</button><br>
+                <input type="password" id="senha"><br><br>
                 <a href="senha.html">Esqueci minha senha</a>
             </div>
+            <div>
+                <button id="btn-login" type="button" onclick="validarLogin()">Entrar</button><br>
+            </div>
+            <span>Não tem cadastro?<a href="cadastre-se.html">Cadastre-se</a></span>
         </form>
     </div>
     <script src='login.js'></script>

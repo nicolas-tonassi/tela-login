@@ -1,8 +1,9 @@
 
 // Função para verificar se os campos do formulário de login estão preenchidos
 function validarLogin() {
-    var usuario = document.getElementById("inputEmail4").value;
-    var senha = document.getElementById("inputPassword4").value;
+    var usuario = document.getElementById("user").value;
+    var senha = document.getElementById("senha").value;
+    
     if (usuario === '' || senha === '') {
         alert("Por favor, preencha ambos os campos para entrar.");
     } else {

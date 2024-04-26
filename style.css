@@ -48,5 +48,8 @@ form{
     text-align: center;
 }
 a{
-    font-size: 25px;
+    font-size: 15px;
+}
+span{
+    font-size: 15px;
 }
